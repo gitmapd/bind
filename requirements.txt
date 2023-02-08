@@ -1,0 +1,6 @@
+pandas
+numpy
+requests
+ipykernel>=6
+jupyterlab==4.0.0a32
+jupyterlab-link-share
